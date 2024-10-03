@@ -5,3 +5,5 @@ ThisIsAnExample - "Pascal" case
 this_is_an_exmaple - "Snake" case
 this-is-an-example - "Kebab" case
 THIS_IS_AN_EXAMPLE - "Screaming Snake" casing
+
+This change was made on master!
